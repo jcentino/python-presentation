@@ -10,7 +10,7 @@ pyparsing==2.0.2
 python-dateutil==2.2
 pyzmq==14.3.1
 six==1.7.3
-tornado==4.0.1
+tornado==6.3.2
 wsgiref==0.1.2
 ipython-cql
 blist
